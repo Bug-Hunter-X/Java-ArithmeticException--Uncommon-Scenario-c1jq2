@@ -1,0 +1,3 @@
+This repository demonstrates a scenario in Java where an ArithmeticException can occur due to division by zero. While this is a common error type, its manifestation can be subtle and lead to unexpected runtime exceptions. The provided code displays an example of such a scenario, and also offers a solution showing various techniques for avoiding this problem.
+
+The `UncommonBug.java` file contains the faulty code, while `UncommonBugSolution.java` presents a refined version.
